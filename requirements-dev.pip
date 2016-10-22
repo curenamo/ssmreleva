@@ -1,0 +1,7 @@
+clint
+django-extensions
+fabric
+ipdb
+ipython
+shell_command
+twill
